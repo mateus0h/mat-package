@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "package for example",
   "main": "index.js",
+  "publishConfig": {
+    "@mateus0h:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "exit"
   },
