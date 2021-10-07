@@ -1,0 +1,22 @@
+{
+  "name": "@mateus0h/mat-package",
+  "version": "1.0.0",
+  "description": "package for example",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus0h/mat-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mateus0h",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateus0h/mat-package/issues"
+  },
+  "homepage": "https://github.com/mateus0h/mat-package#readme"
+}
